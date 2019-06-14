@@ -7,6 +7,11 @@
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
  <metadata>
  </metadata>
+<wpt lat="40.022780" lon="-75.023340">
+ <name>Map By Northernpenguin</name>
+ <desc>Unknown Point Feature</desc>
+ <sym>Dot</sym>
+</wpt>
 <trk>
  <name>Ganaraska Trail - Wilderness Section</name>
  <desc>Trail</desc>
