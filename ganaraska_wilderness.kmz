@@ -7,10 +7,9 @@
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
  <metadata>
  </metadata>
- 
 <trk>
  <name>Ganaraska Trail - Wilderness Section</name>
- <desc>State Highway</desc>
+ <desc>Trail</desc>
  <trkseg>
   <trkpt lat="44.806900" lon="-78.813040">
   </trkpt>
@@ -2204,7 +2203,6 @@
   </trkpt>
  </trkseg>
 </trk>
-
  <extensions>
  </extensions>
 </gpx>
